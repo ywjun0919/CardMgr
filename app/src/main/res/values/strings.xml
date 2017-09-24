@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CardMgr</string>
+    <string name="btn_edit">编辑</string>
+</resources>
